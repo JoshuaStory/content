@@ -1405,9 +1405,73 @@
             </div>
             <div type="page" n="2"> </div>
             <div type="page" n="3"> </div>
+            <!--I have all the info in a text doc, dont have time to mark up all tonight. I might see if I can create a C++ program to automatically mark up headers and paragraphs -->
+            <div type="item">  
+                <head>LOCAL AND GENERAL.</head>
+                </div>
+            <div type="item">
+                <head>Franco-Egyptian Convention.</head>
+                <p>The decree ratifying the Commercial Convention between France and Egypt is published in the French “Official Journal.”</p>
+            </div>
+            <div type="item">
+                <head>A Brute In Human Shape.</head>
+                <p>Advices from Maghaga report the arrest of a certain Mohamed Abou Zeid, who was in terrupted in the act of burning the body of his wife, whom he had strangled.</p>
+            </div>
+            <div type="item">
+                <head>Beyrout Family of Nine Drowned.</head>
+                <p>Among the survivors of the Sirio disaster was M. Faltat-Horat, of Beyrout, who was mak ing the voyage with his family, consisting of ten persons, of whom he is the sole survivor.</p>
+            </div>
+            <div type="item">
+                <head>New Quay Estate.</head>
+                <p>The next sale of the Municipal estate on the new quay will take place in October. After that date there will be auctions of this land at regular intervals until the total amount of the land fixed by the Commission for sale has been disposed of.</p>
+            </div>
+            <div type="item">
+                <head>A Forger.</head>
+                <p>Mahmoud Hamdi el.Mutargim, who recently managed to escape from custody on tbe charge of forging telegraphic money orders, has been apprehended by the Cairo police. The official erquiry showed that Mahmoad Hamdi had committed forgeries to the exent of L.E. 400 during the last three months.</p>
+            </div>
+            <div type="item">
+            <head>San Stefano Casino.</head>
+                <p>The fete de unit at San Stefano on Saturday fully realized the expectations of the large throng who filled the grounds of  this popular Casino. Tho Bracale orchestra and the Philharmonic Band vied with each other in their muscial efforts, and the evening wound up with a magnificent firework display.</p>
+            </div>    
+            <div type="item">
+                <head>A Local Composer.</head>
+                <p>Among the items of music to be played by the band of the 2nd Batt. Royal Ioniskilling Fusiliers in tbe Esbekieh Gardens tomorrow evening. appears a march, “The Rising Nile,” composed by Lieut-Colonel J. Donegan, R.A.M.C., who is at present in medical charge of the troops at Kasr e'-Nil. The arrangement for military band has been made by Bimbatbi Franklin, Musical Director, Egyptian Army.</p>
+            </div>
+            <div type="item">
+            <head>Cairo Motor Accident</head>
+                <p>The enquiry into the motor car accident which resulted in the death of a lady and injuries to Yassin Bey Mustapha, has shown that tbe motor car was being driven at too high a speed, and that the cart with which it collided carried no light Such, at least, was the evidence elicited from Gamila Saidla, a woman servant who was accompanying them. According to her, Dame Aisha Fadel was a close relative of the Moudir, and was a fre quent caller at his house, and it was while returning to her own home that the accident took place.</p>
+            </div> 
+            <div type="item">
+                <head>Armenian Lawlessness.</head>
+                <p>There was an echo of the racial feuds in the Ottoman Empire in Alexandria yesterday afternoon, when four Armenians attacked a Greek in Mohamed Aly square because he was selling the Alexandria Greek newspaper, “Byzantium.” Our contemporary has offended Armenian susceptibilities by venturing to publish a portrait of tbe Orthodox Bishop of Auchialos in Eastern Roumelia. This prelate is disliked by the Armenians and so these men thrashed the Greek newsvendor and tore his papers to tatters. They were arrested and released on bail.</p>
+            </div>
+            <div type="item">
+                <head>Taximeters for Alexandria.</head>
+                <p>A local newspaper stated that it bad been decided to fit up tbe Alexandria cabs with taximeters. This statement is not correct, and was evidently based on the fact that a representative of a French firm of manu-tacturers of taximeters had submitted a proposal to the Municipality. As we understand that each taximeter costs about frs. 200, it is not likely that the proprietors of cabs will see their way to adopt it. espe cially as they are very pleased with the present cab tariff, which is considered most equitable for all the parties concerned.</p>
+            </div>
+                <div type="item>
+                    <head>NEW ABBAS THEATRE.<head>
+                        </div>
+            <div type="item">
+                     <head>SIGNORINA LE0NI'S BENEFIT.</head>
+                  <p>The final performance of The Geisha at the New Abbas Theatre on Friday night was very properly devoted to the benefit of Signs. Baldi, who, invariably welcome to Cairo audiences, has so largely contributed to tbe success of that piece, which has been the best received of all the company’s wide repertoire. Large as the theatre is, it was almost full, and great was the applause accorded to tbe much feted Mimosa San when she appear ed on the stage.</p>
+                     <p>The Italian translation is rather a grotesque parody of the popular English play, and though tbe staging was certainly excellent, many of the costumes were quite incomprehensible. To see the naval officers appear in military uniform made one smile, but even greater merriment was provoked by the sight of a sailor in kilts ! As regards the musical repre sentation of tbe piece, there was not much fault to be found, but Mimosa San treated that pretty '‘Goldfish" song with great cruelty by singing it in such painfully slow time, and we cannot understand why the finest of all the songs, 'Star of my Soul,” should have been omitted. Despite these faults, however, tbe play went with an excellent swing, and Bignorine Baldi and Leoni, and Signori Urbano and Pirracini especially distinguished themselves in the principal characters of Mimosa San, Molly 8eamore, Wun Hi, and Marquis Imaro, respectively.</p>
+             </div>
+             
+                        
+                   
+                  
+                        
+
+                
+                
+                
+             
             <div type="page" n="4"> </div>
             <div type="page" n="5"> </div>
             <div type="page" n="6"> </div>
         </body>
     </text>
 </TEI>
+
+
